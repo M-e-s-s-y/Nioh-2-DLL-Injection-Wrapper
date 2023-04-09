@@ -1,4 +1,4 @@
-A `version.dll` wrapper to auto-inject SinGul4ritY's "Remove Special Effect Max Constraints" script.<br>
+A `version.dll` wrapper to auto-inject Messy6666 aka SinGul4ritY's "Remove Special Effect Max Constraints" script.<br>
 
 Just place the compiled dll in the same location as `nioh2.exe`.
 
@@ -12,4 +12,4 @@ If it's working correctly it will create a `Wrapper.log` when the game runs with
 
 Required lib for compiling: https://github.com/Synthlight/Base-Dll-Proxy
 
-(Made for v1.27.02 on Steam.)
+(Made for v1.28.08 on Steam.)
