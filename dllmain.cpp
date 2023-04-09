@@ -33,7 +33,7 @@ void RemoveSpecialEffectMaxConstraints() {
     /* Messy 
     nioh2.exe+C37EC6 - E8 85 85 3C FF           - call nioh2.exe+450
     */
-     // 0xE8, 0xB0, 0x1D, 0x0B, 0xFF, // call nioh2.exe+450
+        0xE8, 0x85, 0x85, 0x3C, 0xFF, // call nioh2.exe+450
         0x90, // nop (Since we're replacing code that's 6 bytes.)
         0x90  // Messy 2023-04-09
     };
